@@ -25,4 +25,5 @@ app.listen(5000, function () {
   console.log('This is first message');
   console.log('This is second message from local copy');
   console.log('This is third message from git copy');
+  console.log('This is fifth message from git copy');
 });
